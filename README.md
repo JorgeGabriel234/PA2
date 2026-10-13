@@ -54,7 +54,7 @@ El archivo Main.java mantiene el código inicial del proyecto.
 5.Revisar los resultados obtenidos en cada actividad.
 6.Verificar las operaciones realizadas con vectores y matrices.
 
-link:https://github.com/JorgeGabriel234/PA1
+link:https://github.com/JorgeGabriel234/PA2
 
 > No publicar contraseñas, tokens, credenciales ni datos sensibles.
 
