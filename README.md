@@ -37,7 +37,7 @@ Java
 IntelliJ IDEA
 Git
 GitHub
-Estructura principal del proyecto
+Estructuras dobles y simples
 
 El desarrollo de las actividades se encuentra principalmente en el archivo:
 
