@@ -88,10 +88,9 @@ Todos los integrantes deben participar en la exposición con sus cámaras prendi
 
 ## 7. Conclusiones
 
--Se comprendió la diferencia entre las estructuras de datos estáticas y dinámicas y sus principales características.
+-Se comprendió las listas simples y dobles
 -Se aplicaron operaciones de recorrido, búsqueda e inserción utilizando vectores en Java.
--Se utilizó el algoritmo Selection Sort para ordenar los elementos de un vector de menor a mayor.
--Se trabajó con matrices utilizando filas y columnas para representar información relacionada con aulas, horarios y cantidad de estudiantes.
+-Se utilizó los nodos y las listas enlazadas.
 
 ---
 
