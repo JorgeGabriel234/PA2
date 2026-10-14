@@ -3,7 +3,7 @@
 > **Curso:** Algoritmo y estructura de datos 
 > **Código:** 4682
 > **Evaluación:** PA1 
-> **Equipo:** Grupo 6
+> **Equipo:** Grupo 5
 
 ## 1. Integrantes
 
