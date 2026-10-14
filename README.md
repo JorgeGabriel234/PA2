@@ -71,7 +71,7 @@ i = 5
 
 Process finished with exit code 0
 
-##5. Actividades teoricas
+## 5. Actividades teoricas
 
 Actividad 1.1
 Expliquen qué es una lista enlazada, cómo se clasifica y cuál es su representación gráfica básica.
